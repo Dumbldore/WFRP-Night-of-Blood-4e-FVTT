@@ -31,7 +31,7 @@
   "url": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps",
   "manifest": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps/raw/branch/master/module.json",
   "download": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps/archive/wfrp4e-maps-eis-7.0.0.zip",
-  "id": "wfrp-nob",
+  "id": "wfrp4e-eis-maps",
   "authors": [
     {
       "name": "LeRatierBretonnien",

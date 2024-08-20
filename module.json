@@ -6,18 +6,18 @@
   "author": "Stuart Kerrigan",
   "packs": [
     {
-      "label": "EiS - Buildings and Maps",
-      "type": "Scene",
-      "name": "ennemy-in-shadows-maps",
-      "path": "packs/ennemy-in-shadows-maps.db",
+      "label": "Night of Blood Actors",
+      "name": "NightofBloodActors",
+      "type": "Actor",
+      "path": "./packs/night-of-blood-actors.db",
       "private": false,
       "flags": {}
     },
     {
-      "label": "EiS Maps",
-      "type": "JournalEntry",
-      "name": "eis-maps",
-      "path": "packs/eis-maps.db",
+   "label": "Night of Blood Scenes",
+      "type": "Scene",
+      "name": "NightOfBloodScenes",
+      "path": "./packs/night-of-blood-scenes.db",
       "private": false,
       "flags": {}
     }

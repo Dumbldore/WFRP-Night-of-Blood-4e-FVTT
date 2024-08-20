@@ -13,8 +13,8 @@
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Dumbldore/wfrp-nob/master/module.json",
-  "download": "https://github.com/Dumbldore/wfrp-nob/archive/master.zip",
-  "url": "https://github.com/Dumbldore/wfrp-nob/"
-  "id": "wfrp-nob",
+  "url": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps",
+  "manifest": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps/raw/branch/master/module.json",
+  "download": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps/archive/wfrp4e-maps-eis-7.0.0.zip",
+  "id": "wfrp4e-eis-maps",
 }

@@ -1,18 +1,45 @@
 {
-  "id": "wfrp4e-eis-maps",
-  "name": "wfrp4e-night-of-blood",
-  "title": "Night of Blood (WFRP 4e)",
-  "description": "The classic Warhammer Fantasy Roleplay adventure, perfect for introducing new players. Now updated to include multi-level scenes",
-  "version": "3.0",
-  "author": "Stuart Kerrigan",
-    "packs": [
+  "title": "WFRP4E - Fan-made maps for Ennemy in Shadows",
+  "description": "Module for maps for EiS (aka chapter 1 of the Imperial Campaign)",
+  "version": "7.0.0",
+  "packs": [
     {
-      "label": "Night of Blood Actors",
-      "type": "Actor",
-      "name": "NightOfBloodActors",
-      "path": "./packs/night-of-blood-actors.db",
+      "label": "EiS - Buildings and Maps",
+      "type": "Scene",
+      "name": "ennemy-in-shadows-maps",
+      "path": "packs/ennemy-in-shadows-maps.db",
       "private": false,
       "flags": {}
     },
-    ]
+    {
+      "label": "EiS Maps",
+      "type": "JournalEntry",
+      "name": "eis-maps",
+      "path": "packs/eis-maps.db",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps",
+  "manifest": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps/raw/branch/master/module.json",
+  "download": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps/archive/wfrp4e-maps-eis-7.0.0.zip",
+  "id": "wfrp-nob",
+  "authors": [
+    {
+      "name": "LeRatierBretonnien",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  }
 }

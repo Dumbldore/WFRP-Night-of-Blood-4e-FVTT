@@ -4,24 +4,7 @@
   "description": "The classic Warhammer Fantasy Roleplay adventure, perfect for introducing new players. Now updated to include multi-level scenes",
   "version": "3.0",
   "author": "Stuart Kerrigan",
-  "packs": [
-    {
-      "label": "Night of Blood Actors",
-      "name": "NightofBloodActors",
-      "type": "Actor",
-      "path": "./packs/night-of-blood-actors.db",
-      "private": false,
-      "flags": {}
-    },
-    {
-   "label": "Night of Blood Scenes",
-      "type": "Scene",
-      "name": "NightOfBloodScenes",
-      "path": "./packs/night-of-blood-scenes.db",
-      "private": false,
-      "flags": {}
-    }
-  ],
+  "packs": [],
   "languages": [
     {
       "lang": "fr",

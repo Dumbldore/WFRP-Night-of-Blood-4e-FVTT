@@ -2,9 +2,44 @@
   "title": "WFRP4E - Fan-made maps for Ennemy in Shadows",
   "description": "Module for maps for EiS (aka chapter 1 of the Imperial Campaign)",
   "version": "7.0.0",
-  "packs": [],
+  "packs": [
+    {
+      "label": "EiS - Buildings and Maps",
+      "type": "Scene",
+      "name": "ennemy-in-shadows-maps",
+      "path": "packs/ennemy-in-shadows-maps.db",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "EiS Maps",
+      "type": "JournalEntry",
+      "name": "eis-maps",
+      "path": "packs/eis-maps.db",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json",
+      "flags": {}
+    }
+  ],
   "url": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps",
   "manifest": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps/raw/branch/master/module.json",
   "download": "https://www.uberwald.me/gitea/public/wfrp4e-eis-maps/archive/wfrp4e-maps-eis-7.0.0.zip",
   "id": "wfrp4e-eis-maps",
+  "authors": [
+    {
+      "name": "LeRatierBretonnien",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  }
 }

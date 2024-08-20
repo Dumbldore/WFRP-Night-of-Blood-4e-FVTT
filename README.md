@@ -7,7 +7,7 @@ Night of Blood is the classic Warhammer Fantasy Roleplay scenario, and an excell
 This module provides unofficial content to allow GMs to run Night of Blood using [Foundry Virtual Tabletop's](https://foundryvtt.com/) [Warhammer Fantasy Roleplay Foundry Core Module](https://www.cubicle7games.com/product-category/foundry/). You'll need a free [PDF of Night of Blood](https://www.drivethrurpg.com/product/259967/WFRP-Old-World-Adventures--Night-of-Blood) to run this module successfully, but all maps and actors are supplied in this module.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Night-of-Blood-4e-FVTT/master/assets/icons/footage.gif">
+  <img src="https://raw.githubusercontent.com/Dumbldore/WFRP-Night-of-Blood-4e-FVTT/master/assets/icons/footage.gif">
 </p>
 <p align="center">
 <em>You too can enjoy Morrslieb rays in pleasant weather. Ask your GM how!</em>
@@ -29,8 +29,6 @@ This module provides unofficial content to allow GMs to run Night of Blood using
 			
 This module is freeware, and always will be, and other free unofficial WFRP modules are planned. As the WFRP content now requires payment to Cubicle 7 there are some running costs so if you want to donate then the link below is provided.
 			
-<p align="center">
-<a href="https://paypal.me/perilousrealm?locale.x=en_GB"><img src="https://raw.githubusercontent.com/Dumbldore/WFRP-Night-of-Blood-4e-FVTT/master/paypal.png" style="display: block;  margin-left: auto; margin-right: auto;" alt="paypal" /></a></p>
 
 You can also listen to the <a href="https://anchor.fm/peril">Perilous Realm Podcast</a><br/><br/>
 <p align="center">

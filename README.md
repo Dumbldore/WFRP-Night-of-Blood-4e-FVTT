@@ -20,7 +20,7 @@ This module provides unofficial content to allow GMs to run Night of Blood using
 * Token files - full tokens for the NPC cast.
 
 ## Installation 
-* Add via Foundry VTT Module Setup screen using the Manifest URL: `https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Night-of-Blood-4e-FVTT/master/module.json`
+* Add via Foundry VTT Module Setup screen using the Manifest URL: `https://raw.githubusercontent.com/Dumbldore/WFRP-Night-of-Blood-4e-FVTT/master/module.json`
 * On launching your world and enabling the module the Initializer should pop up to automatically install all scenes, actors and journal entries. 
 * You can also optionally import in the sound playlists if you want audio (storm noises, rain, tavern speech).
 * The upper level of the Hooded Man and the Ferry are a series of tiles that are hidden from the players. Reveal them when the time comes.
